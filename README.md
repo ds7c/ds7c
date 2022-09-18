@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ds7c "Abood"
+- 👀 I’m interested in Cyber Security & Web Developer
+- 🌱 I’m currently learning CSS & JS
+- 💞️ I’m looking to collaborate on Front End Developer
